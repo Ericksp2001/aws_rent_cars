@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+yagmail
+pymongo
+httpx
+jinja2
